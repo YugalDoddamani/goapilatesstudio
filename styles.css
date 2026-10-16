@@ -1406,13 +1406,6 @@ button {
   font-size: 26px;
 }
 
-.testimonial-note {
-  margin: 16px 0 0;
-  color: #9a9b91;
-  font-size: 9px;
-  line-height: 1.5;
-}
-
 .founder-section {
   background: var(--paper);
 }
